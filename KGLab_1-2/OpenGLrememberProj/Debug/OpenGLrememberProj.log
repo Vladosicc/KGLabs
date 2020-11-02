@@ -1,0 +1,21 @@
+﻿  Render.cpp
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(125,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(125,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(125,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(305,6): warning C4101: texW: неиспользованная локальная переменная
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(304,8): warning C4101: texCharArray: неиспользованная локальная переменная
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(305,12): warning C4101: texH: неиспользованная локальная переменная
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(301,13): warning C4101: texarray: неиспользованная локальная переменная
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(662,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(718,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(724,44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(746,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(759,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(765,44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(626,10): warning C4101: y: неиспользованная локальная переменная
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(626,13): warning C4101: x: неиспользованная локальная переменная
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(340): warning C4172: возвращение адреса локальной или временной переменной : Point
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(368): warning C4172: возвращение адреса локальной или временной переменной : vector_normali
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(435): warning C4172: возвращение адреса локальной или временной переменной : VectorNormal
+C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\OpenGLrememberProj\Render.cpp(402): warning C4172: возвращение адреса локальной или временной переменной : VectorNormal
+  OpenGLrememberProj.vcxproj -> C:\Users\Vladosicc\Desktop\КГ1\KGLab_1-2\Debug\OpenGLrememberProj.exe
